@@ -1,5 +1,5 @@
-require('./index.css');
 require('./bootstrap.min.css');
+require('./index.css');
 const {
     Weather
 } = require('./Weather.js');
